@@ -11,3 +11,17 @@
 
 ## المواضيع
 العقيدة الإسلامية, منهج السلف, الثبات على الدين
+
+## روابط الكتاب
+
+- [GitHub](https://github.com/da3wabooks/thabat-aqida-salaf)
+- [Internet Archive](https://archive.org/details/tabat-akidaa-pdf)
+- [Zenodo](https://zenodo.org/records/23805661)
+- [Telegram](https://t.me/arabicfreebooks/2092)
+- [Blogger](https://isalamicarabicbooks.blogspot.com/2026/10/blog-post_30.html)
+- [Hugging Face — نسخة الكتاب](https://huggingface.co/datasets/Youssef838/arabic-islamic-book-262)
+- [Hugging Face — المجموعة](https://huggingface.co/datasets/Youssef838/arabic-islamic-books)
+- [Kaggle — نسخة الكتاب](https://www.kaggle.com/datasets/youssefessam838/arabic-islamic-book-262)
+- [Kaggle — المجموعة](https://www.kaggle.com/datasets/youssefessam838/arabic-islamic-books)
+- [صفحة الكتاب على الموقع](https://da3wabooks.github.io/book/262.html)
+- [المصدر الرسمي للحقوق](https://www.al-badr.net/ebook/15)
